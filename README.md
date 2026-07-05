@@ -1,1 +1,1 @@
-# BridgeLab-Training-2Y-DSA
+# Stacks-and-Queues
