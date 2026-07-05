@@ -1,0 +1,27 @@
+Trees are the non-linear hierarchical data structure which consist of nodes connected by edges....
+If we have 10 nodes then we have n-1 edges that is 9 edges(edges means the connection between two nodes)....
+A tree can have only one root node
+In trees there is only one path between two nodes...
+parent nodes is the one which consist of a branch..
+All nodes are child node except root node....[node which have one parent node]
+Sibling node are the one having same parents..
+Degree of node->how many child a particular node have
+Degree of tree->highest degree of a node
+leaf node->node having no child
+Internal node->the node which has at least one child
+Internal node=Parent node
+Level->the generation in a tree are called level. Starting from 0 at root node
+Height->the depth of a child node from a particular node
+Height of a tree->depth of a leaf node from a root node
+Depth->the number of edges between one particular node to the root node
+Depth of node==Level of a tree
+Sub-tree->subset of a tree. Every child is considered a sub-tree....
+
+TYPES OF TREE:-
+
+i)  General tree->common tree
+ii) Binary tree->every node has at most 2 child node
+iii)Binary search(BST)->should be binary tree and root node should be greater then left node but less then right node
+iv) AVL tree
+v)  Red-black-tree
+vi) N-ary tree
